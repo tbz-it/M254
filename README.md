@@ -1,5 +1,10 @@
 # Modul 254 Geschäftsprozesse beschreiben
 
+Aufruf BPMN Workflow Engine mittels [http://${ADDR}:8080/camunda/](http://${ADDR}:8080/camunda/).
+
+User:     demo
+Password: demo
+
 ## Dokumentation
 
 * [BPMN Tutorial](https://github.com/mc-b/bpmn-tutorial)
