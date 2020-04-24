@@ -2,8 +2,8 @@
 
 Aufruf BPMN Workflow Engine mittels [http://${ADDR}:8080/camunda/](http://${ADDR}:8080/camunda/).
 
-User:     demo
-Password: demo
+* User:     demo
+* Password: demo
 
 ## Dokumentation
 
